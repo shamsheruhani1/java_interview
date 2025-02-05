@@ -1,0 +1,5 @@
+Hosting - where data is strore
+Database - how data is stored
+logic   - how data is processod
+API     - how data is fatched
+UI   -  how data is represented

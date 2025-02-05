@@ -1,0 +1,18 @@
+How Hashmap work
+what is hash collision in hashmap
+how hashmap handle colliosoion
+what is the order of entries in hashmap
+does hasmap allow duplicate value..?
+does hasmap allow duplicate key..?
+How many enteris put in the hashmap
+
+is hashmap thread-safe
+can we store null key in hasmap
+how HM handle null key
+how get() work
+hoe put() work
+time complexity of get() and put()
+
+is any new method added into HM.?
+does the itirator return by HM is fali safe or fail fast
+how do you remove entry from HM while itirating it

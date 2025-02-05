@@ -1,0 +1,176 @@
+
+
+Question Related to Stream API
+
+–	Refer the following Data module and implement the following assignments using Stream API
+
+
+
+-  Exercise 1 — Obtain a list of products belongs to category “Books” with price > 100
+-  Exercise 2 — Obtain a list of order with products belong to category “Baby”
+-  Exercise 3 — Obtain a list of product with category = “Toys” and then apply 10% discount
+-  Exercise 4 — Obtain a list of products ordered by customer of tier 2 between 01-Feb-2021 and 01-Apr-2021
+-  Exercise 5 — Get the cheapest products of “Books” category
+-  Exercise 6 — Get the 3 most recent placed order
+-  Exercise 7 — Get a list of orders which were ordered on 15-Mar-2021, log the order records to the console and then return its product list
+-  Exercise 8 — Calculate total lump sum of all orders placed in Feb 2021
+-  Exercise 9 — Calculate order average payment placed on 14-Mar-2021
+-  Exercise 10 — Obtain a collection of statistic figures (i.e. sum, average, max, min, count) for all products of category “Books”
+-  Exercise 11 — Obtain a data map with order id and order’s product count
+-  Exercise 12 — Produce a data map with order records grouped by customer
+-  Exercise 13 — Produce a data map with order record and product total sum
+-  Exercise 14 — Obtain a data map with list of product name by category
+-Exercise 15 — Get the most expensive product by category
+
+
+
+iamsaumyaawasthi's profile picture
+Hands-On Java Stream API Questions ✅
+
+Create a stream pipeline to group a list of strings by their length.
+Write a program to count the number of occurrences of each character in a string using streams.
+Given a list of Employee objects, find the employee with the highest salary using streams.
+Using streams, filter a list of numbers to only include those greater than 10 and then find their average.
+Write a program to concatenate a list of strings into a single string, separated by commas, using streams.
+Using Java Streams, convert a list of strings to a map where the key is the string and the value is its length.
+Write a stream operation to flatten a list of lists of integers into a single list of integers.
+Given a list of transactions, filter out transactions of a specific type and collect them into a set.
+Create a stream pipeline to find the first name of the oldest person in a list of Person objects.
+Write a program to find the first non-repeating character in a string using streams.
+Using streams, find the sum of the squares of a list of integers.
+Write a stream operation to skip the first 5 elements in a list and then print the rest.
+Create a stream to generate an infinite sequence of random numbers and print the first 10.
+Using streams, partition a list of integers into even and odd numbers.
+Write a program to convert a list of strings to a list of their respective lengths using streams.
+Using streams, find the product of all elements in a list of integers.
+Create a stream pipeline to collect all unique words from a list of sentences.
+Write a program to filter out null values from a list of strings using streams.
+Using streams, merge two lists of integers and remove duplicates.
+Write a stream operation to check if any string in a list starts with a specific prefix.
+
+
+What is a lambda expression in Java 8?
+What are the main benefits of using lambda expressions in Java 8?
+Explain the syntax of a lambda expression in Java 8.
+What is the relationship between functional interfaces and lambda expressions?
+How do lambda expressions improve code readability and maintainability?
+What are method references in Java 8 and how do they relate to lambda expressions?
+What is the difference between a lambda expression and an anonymous class?
+How do lambda expressions enable functional programming in Java?
+Can lambda expressions be used with collections and streams? Explain with an example.
+Explain the role of the @FunctionalInterface annotation.
+How does type inference work in lambda expressions?
+Write a lambda expression to sort a list of strings in descending order.
+How would you filter a list of integers to find all even numbers using lambda expressions and streams?
+Demonstrate how to use a lambda expression to implement a custom comparator for sorting a list of objects.
+Show how to use a lambda expression to print each element of a list.
+Implement a lambda expression to convert a list of strings to uppercase.
+Write a lambda expression to sum all elements in a list of integers.
+Create a lambda expression to find the maximum value in a list of integers.
+Demonstrate the use of a lambda expression to group elements in a list by a specific criterion.
+Implement a lambda expression to find the first element in a stream that matches a given predicate.
+Write a lambda expression to concatenate a list of strings with a delimiter.
+
+
+https://medium.com/illumination/java-8-stream-api-commonly-asked-interview-questions-2a57081044ef
+
+How do you find all even numbers in a list using Streams?
+How do you find all odd numbers in a list using Streams?
+How do you find all prime numbers in a list using Streams?
+How do you find the sum of all even numbers in a list using Streams?
+How do you find the sum of all odd numbers in a list using Streams?
+How do you find the product of all numbers in a list using Streams?
+How do you count the number of even numbers in a list using Streams?
+How do you count the number of odd numbers in a list using Streams?
+How do you find the maximum number in a list using Streams?
+How do you find the minimum number in a list using Streams?
+How do you calculate the average of all numbers in a list using Streams?
+How do you create a list of squares of all numbers in a list using Streams?
+How do you filter out negative numbers from a list using Streams?
+How do you count the number of words in a list of strings using Streams?
+How do you find the longest word in a list of strings using Streams?
+How do you find the shortest word in a list of strings using Streams?
+How do you concatenate all strings in a list using Streams?
+How do you find all strings that start with a specific letter using Streams?
+How do you find all strings that end with a specific letter using Streams?
+How do you find all palindromic strings in a list using Streams?
+How do you group strings by their length using Streams?
+How do you count the number of unique words in a list of strings using Streams?
+How do you remove duplicates from a list of strings using Streams?
+How do you sort a list of strings in alphabetical order using Streams?
+How do you sort a list of strings in reverse alphabetical order using Streams?
+How do you convert all strings in a list to uppercase using Streams?
+How do you convert all strings in a list to lowercase using Streams?
+How do you find the first non-repeating character in a string using Streams?
+How do you find the frequency of each character in a string using Streams?
+How do you reverse each word in a list of strings using Streams?
+How do you count the number of vowels in a list of strings using Streams?
+How do you count the number of consonants in a list of strings using Streams?
+How do you find the word with the highest number of vowels in a list of strings using Streams?
+How do you find the word with the highest number of consonants in a list of strings using Streams?
+How do you find the common elements between two lists using Streams?
+How do you find the difference between two lists using Streams?
+How do you find the intersection of two lists using Streams?
+How do you find the union of two lists using Streams?
+How do you find the symmetric difference between two lists using Streams?
+How do you create a list of numbers from 1 to 100 using Streams?
+How do you create a list of the first n Fibonacci numbers using Streams?
+How do you generate a list of random numbers using Streams?
+How do you create a list of prime numbers within a range using Streams?
+How do you partition a list of numbers into even and odd lists using Streams?
+How do you partition a list of strings by their length using Streams?
+How do you find the second largest number in a list using Streams?
+How do you find the second smallest number in a list using Streams?
+How do you remove null values from a list using Streams?
+How do you convert a list of strings to a list of their lengths using Streams?
+How do you find the top n highest numbers in a list using Streams?
+How do you find the top n smallest numbers in a list using Streams?
+How do you find the nth largest number in a list using Streams?
+How do you find the nth smallest number in a list using Streams?
+How do you shuffle a list of numbers using Streams?
+How do you rotate elements in a list using Streams?
+How do you check if a list is sorted in ascending order using Streams?
+How do you check if a list is sorted in descending order using Streams?
+How do you find the frequency of each element in a list using Streams?
+How do you find the mode of a list using Streams?
+How do you find the median of a list using Streams?
+How do you convert a list of strings to a single concatenated string using Streams?
+How do you find the sum of all digits in a list of integers using Streams?
+How do you create a histogram of word lengths from a list of strings using Streams?
+How do you flatten a list of lists using Streams?
+How do you calculate the running total of a list of numbers using Streams?
+How do you create a list of squares of the first n natural numbers using Streams?
+How do you find the cumulative product of a list of numbers using Streams?
+How do you find the longest common prefix in a list of strings using Streams?
+How do you find the longest common suffix in a list of strings using Streams?
+How do you convert a list of integers to a list of their binary representations using Streams?
+How do you convert a list of integers to a list of their hexadecimal representations using Streams?
+How do you find the kth largest unique number in a list using Streams?
+How do you find the kth smallest unique number in a list using Streams?
+How do you group a list of strings by their first character using Streams?
+How do you group a list of strings by their last character using Streams?
+How do you create a list of n random unique numbers using Streams?
+How do you create a list of n random unique strings using Streams?
+How do you find the longest increasing subsequence in a list using Streams?
+How do you find the longest decreasing subsequence in a list using Streams?
+How do you create a Cartesian product of two lists using Streams?
+How do you create a list of all permutations of a list using Streams?
+How do you create a list of all combinations of a list using Streams?
+How do you find the missing number in a list of 1 to n using Streams?
+How do you find the duplicate number in a list of 1 to n using Streams?
+How do you find the missing and duplicate numbers in a list of 1 to n using Streams?
+How do you find the length of the longest contiguous subarray with a given sum using Streams?
+How do you find the length of the longest subarray with a given product using Streams?
+How do you find the number of subarrays with a given sum using Streams?
+How do you find the number of subarrays with a given product using Streams?
+How do you find the length of the shortest subarray with a given sum using Streams?
+How do you find the length of the shortest subarray with a given product using Streams?
+How do you find the kth smallest element in a list using Streams?
+How do you find the kth largest element in a list using Streams?
+How do you convert a list of integers to a list of their factorials using Streams?
+How do you find the longest word that can be formed by concatenating two or more words from a list using Streams?
+How do you check if a list of numbers forms an arithmetic progression using Streams?
+How do you check if a list of numbers forms a geometric progression using Streams?
+How do you find the longest palindromic subsequence in a list of integers using Streams?
+How do you find the longest palindromic substring in a string using Streams?
+How do you remove all instances of a specific element from a list using Streams?

@@ -1,0 +1,54 @@
+The Right Approach. 
+
+Hi (Name), I hope you are doing well
+
+ I had come across a job position in your esteemed organisation i-e R-123456 (Title) and 1 feel 1 would be a great fit for the role as I have _Years of Experience in _ Domain and I have X,Y,Z Skills that I can bring on to the table.
+ 
+ 1 would be highly obliged if you can help me with a referral for the same and it would be highly appreciated if you can put forward my profile to the hiring manager.
+ 
+ 1 am herewith attaching my resume for your kind perusal. looking forward to hearing from you.
+ Regards ABC
+
+
+
+{Subject}
+Referral for [Role] for JobID: [ID]
+
+{Motive}
+Hope this message finds you well. I am [Your Name] and I am really keen to work for [Company Name]. There is a job opening at your company which fits me very well with JobID: [ID & Link]
+
+{why you are fit for the role}
+I am a [Current Year] Year BTech student majoring in [Branch] from [College Name]. Before this I have also interned at [Past Experience and Achievements]. Some of my main skills include [Key Skills aligned to the Role].
+[Mention Github & Leetcode Links if available]
+
+This internship will boost my career and I will be able to apply my skills at an Industry level.
+
+Here is my Resume [Resume Link]. Thank you for making time to attend to my request. Hope you have a great day!
+.
+.
+[ LinkedIn Hacks , Software Developer , Resume Tips , Computer Science , Placements , Job Search , Resources , Microsoft , Google , Engineering Students , College Students , DSA , Web Development ]
+
+
+
+
+
+
+
+I’ve seen candidates just sharing their resume with hiring managers or recruiters.
+
+If you’re making the same mistake, then you’re simply spamming them.
+So, here’s what you can do to improve your message
+
+𝗘𝗺𝗮𝗶𝗹 𝗧𝗲𝗺𝗽𝗹𝗮𝘁𝗲
+
+Hi [Recruiter’s Name],
+
+My name is [Your Name], and I’m reaching out to express my interest in the [Job Title] position at [Company Name] that I noticed on your company’s website.
+
+I am eager to learn more about the role and believe my background in [Your Key Skill/Experience] could be a good fit for your team. Would you be available for a brief chat to discuss the position further?
+
+Looking forward to your response.
+
+Best regards, [Your Name]
+
+You can personalize these templates and adjust them according to your qualifications and job role.

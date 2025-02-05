@@ -1,0 +1,12 @@
+Factory
+Observer
+Singleton
+Bbuilder
+Adapter
+Decorator
+Proxy
+Strategy
+Command
+Template
+Iterator
+State

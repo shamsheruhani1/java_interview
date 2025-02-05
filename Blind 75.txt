@@ -1,0 +1,5 @@
+STOP Solving 500+ Leetcode Problems instead try to solve these 75 problems when ever you are revising the concepts they will try to help you revise the most important topics.
+
+This doesnot mean that this is the only list you should do, you should practise as much as possible but for revision this is good.
+
+Blind 75 and now available on Proelevate : https://www.proelevate.in/dsa-practice/leetcode-blind-75

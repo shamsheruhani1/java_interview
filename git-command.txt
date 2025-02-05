@@ -1,0 +1,15 @@
+ git clone - Clone a repository
+2. git add - Stage changes for commit
+3. git commit - Commit staged changes
+4. git push - Push commits to remote
+5. git pull - Fetch and merge changes from remote
+6. git branch - List, create, or delete branches
+7. git checkout - Switch branches or restore files
+8. git merge - Merge branches
+9. git stash - Stash changes for later
+10. git status - Check the status of your repository
+
+Bonus:
+- git log - View commit history
+- git diff - See changes between commits
+- git rebase - Reapply commits on top of another base tip

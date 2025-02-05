@@ -1,0 +1,38 @@
+I've interviewed over 100 candidates at Google and another 50 at my previous company, BlueStacks. Over the years, I've seen a lot of common patterns of mistakes that candidates make. Here are the top ones:
+
+--Before the interview--
+❌ Not researching the interviewer or the company.
+You should always take the time to learn about the interviewer (Stalking them on LinkedIn?) and the company before your interview. This will help you understand the type of questions they might ask and the kind of solutions they're looking for.
+❌ Not knowing the level you're interviewing for or the type of interview.
+This will help you prepare for the right kind of questions(e.g., design round, coding round, etc.).
+❌ Overpreparing on the behavioral aspect for an early career position.
+For early career tech interviews, the focus is typically on coding and problem-solving skills. Leadership and behavioral questions become more important for more senior positions.
+
+--During the interview--
+❌ Not knowing the format of the interview.
+Clarify expectations with the interviewer or recruiter to ensure your time is optimized, preventing unexpected shifts.
+❌ Jumping right into the code without asking clarifying questions.
+This is the biggest red flag from the interviewer's side. Take your time and spend some time understanding the problem
+❌ Not explaining your thought process.
+Interviews are not about the end result but how you get there so think out LOUD.
+❌ Not dry-running your code.
+The last thing you want is for the interviewer to find a bug in the code.
+❌ Not mentioning the space-time complexity of your code.
+This shows the interviewer that you understand the performance implications of your code.
+❌ Not proposing alternatives or improvements to your code or the problem itself.
+This shows the interviewer that you're able to think critically about your code and that you're always looking for ways to improve (Growth mindset).
+
+--On the code side--
+❌ Writing bad code and not using language features.
+For a 20 mins solution, it doesn't make sense to implement the Stack class yourself.
+❌ Not using proper abstractions (the extra mile).
+Great programmers always encapsulate the logic behind interfaces and APIs.
+❌ Not calling out potential design patterns, algorithms, and coding techniques.
+This shows the interviewer that you are SKILLED IN YOUR ART FORM, in other words, you have a deep understanding of computer science.
+
+
+If it's just the code that matters, why you should even talk about alternatives, call out patterns and time complexities, and think out loud?
+Answer: Programming can be thought of as an art form: Mastering algorithms, time complexity, and abstractions is akin to an artist's mastery of brushwork and color theory, which elevates your work from mere functionality (or drawing) to a well-written program (or craftsmanship), reflecting your dedication to coding's artistry.
+
+#programming #softwareengineering #codinginterviews #interviewersperspective #coding
+Activate to view larger i

@@ -1,0 +1,172 @@
+SOLID Principle
+ACID principle
+
+Internal working of HashMap
+Is HashMap thread-safe?
+Can you inherit private methods of a class?
+Can you override private methods?
+Can you override member variables of a class?
+How to create a Singleton class
+How to do shallow copy in Java
+What is the use of Cloneable interface? Which class has the clone method? Why is the clone method in the Object class?
+Explain serialization and deserialization
+What is dependency injection in Spring Boot? How to do dependency injection in code?
+Explain @Autowired annotation
+What is the difference between @RestController and @Service?
+How do we create beans in Spring Boot?
+What are microservices? Have you heard of Discovery Service?
+
+
+ How does substring () inside String works?
+- What is a classloader?
+- How is the creation of a String using new() different from that of a literal?
+- What is difference between Executor.submit() and Executer.execute() method ?
+- What do you understand by Java Memory Model?
+- How to make a class Immutable? What purpose does it solve?
+- Can you use HashMap in the multi-threaded environment? What can be the problem?
+- Can you write a critical section code for the singleton?
+- What is Singleton? is it better to make the whole method synchronized or only the critical section synchronized?
+- How can you avoid serialization in the child class if the base class is implementing the Serializable interface?  override writeOnObject and readOnObject and                    throw` NotSerializableException
+
+
+- What is the ConcurrentHashMap in Java and do you implement it?
+- Explain the FailFast iterator and FailSafe iterator along with examples for each.  "ConcurrentModificationException"
+- What is the difference between Checked Exception and Unchecked Exception?
+- What is the difference between factory and abstract factory pattern?
+- What is marker interface?
+- When Finally block doesn’t get executed?
+- How does Garbage collection in Java works?
+- Difference between ClassNotFound vs NoClassDefError?  
+- How to break Singleton?
+
+
+
+ArrayList vs LinkedList
+Write Deque Implementation Code
+Interface vs Abstract Class
+Explain Internal Working of HashMap
+Queue vs Stack
+Compile Time vs Runtime Polymorphism
+Instance Variable vs Static Variable
+LinkedList vs Circular LinkedList
+Difference Between HashSet and TreeSet
+Explain the Concept of Garbage Collection in Java
+
+
+Functional Interface
+Comparable vs Comparator
+Stream API
+Abstract Factory & Factory Design Pattern
+Write a Java Program that Takes a List of Integers as Input and Returns the Squares of All the Odd Numbers in the List, Using the Stream API
+Find Subarray with Given Sum
+Design Patterns
+Role and Responsibilities within Project
+Challenges Faced within Project
+Java 8 Features
+HashMap Related Code
+How to Break Singleton Pattern
+Difference Between Synchronized and Concurrent Collections
+Explain the ‘volatile’ Keyword in Java
+
+
+
+
+Monolithic vs Microservices
+Check if Array is Sorted or Not
+Fault Tolerance in Microservices
+Join Related Questions
+Explain the Use of Docker in Microservices Architecture
+Discuss a Scenario Where You Implemented a Microservice
+
+
+
+. Core Java Concepts:
+- What are the pillars of Object-Oriented Programming (OOP)?
+- Explain the difference between `==` and `.equals()` methods.
+- Describe the significance of the `main()` method in Java.
+
+2. Multithreading:
+- What is a thread in Java? How do you create one?
+- Explain synchronization and why it’s necessary.
+
+3. Exception Handling:
+- Differentiate between checked and unchecked exceptions.
+- How do you use `try`, `catch`, `finally`, and `throw`?
+
+4. Generics:
+- Define generics in Java and their purpose.
+- Explain `<? extends T>` and `<? super T>` wildcards.
+
+5. IO and NIO:
+- Compare `InputStream` and `Reader`.
+- What are the advantages of Java NIO?
+
+6. Serialization:
+- Explain Java serialization and the `Serializable` interface.
+- What is the `transient` keyword used for?
+
+7. Lambdas and Functional Programming:
+- What are lambda expressions? Provide an example.
+- Define functional interfaces in Java.
+
+8. Streams API:
+- What is the Java Streams API used for?
+- Explain intermediate and terminal operations.
+
+9.. Concurrency Utilities:
+- Describe the Executor framework and its usage.
+- What are CompletableFuture and their benefits?
+
+10. JDBC and Database Connectivity:
+- How do you connect to a database using JDBC?
+- Compare `Statement`, `PreparedStatement`, and `CallableStatement`.
+
+11. Spring Framework:
+- What are the core principles of Spring Framework?
+- Explain dependency injection (DI) and inversion of control (IoC).
+
+12. Spring MVC and RESTful Services:
+- How do you create RESTful services with Spring MVC?
+- What are `@RestController` and `@RequestMapping` used for?
+
+13. Hibernate ORM:
+- What is Hibernate ORM and its advantages?
+- Compare Hibernate and JDBC.
+
+14. Design Patterns:
+- Explain Singleton, Factory, and Observer patterns.
+- When would you use the Builder pattern
+
+
+
+
+1. What is the difference between JDK, JRE, and JVM? 
+2. What is JIT Compiler? 
+3. Explain the difference between the equals() method and the equality operator (++) in Java. 
+4. Why is the Java Platform Independent? 
+5. Why is Java not Completely object oriented? 
+6. What are the differences between Stack and Heap Memory in Java? 
+7. What is Data Encapsulation? 
+8. Why is a Character Array preferred over a String for Storing Confidential Information? 
+9. What happens when the static keyword is not included in the main method signature? 
+10. Does the Finally block get executed if the code System.exit(0) is written at the end of the Try block?
+
+
+1. Why Java is not 100% Object-oriented ? 
+2. Why pointers are not used in Java ? 
+3. What is JIT compiler in Java ? 
+4. Why String is immutable in java ? 
+5. What is a deadlock in Java and how to create 
+6. Can you override a private or static method ? 
+7. Does "finally" always execute in Java? 
+8. How Can You Make a Class Immutable ? 
+9. How can, we make a class singleton? 
+10. How to break a Singleton påttern ? 
+11. Does Java support multiple inheritances 
+12. Access a non-static variable in static context 
+13. Possible to load a class by two ClassLoader ? 
+14. What is a marker interface ? 
+15. Best candidate for the HashMap Key? 
+16. Can we use a default constructor of a class even if an explicit constructor is defined 
+17. If two threads have same priority which thread will be executed first ? 
+18. Can we serialize static variables in java ?

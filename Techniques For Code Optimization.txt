@@ -1,0 +1,42 @@
+Techniques For Code Optimization
+
+
+1. Time Complexity Analysis
+- Analyze algorithmic efficiency using Big O notation
+- Identify bottlenecks and optimize critical sections
+- Minimize nested loops and expensive operations
+
+2. Space Complexity Optimization
+- Reduce memory usage by efficient data structures
+- Avoid unnecessary data duplication
+- Utilize in-place algorithms when possible
+
+3. Caching and Memoization
+- Store frequently accessed data in cache
+- Implement memoization for expensive function calls
+- Leverage caching frameworks and libraries
+
+4. Lazy Evaluation
+- Defer expensive computations until needed
+- Implement lazy loading for large datasets
+- Utilize generators and iterators for efficient iteration
+
+5. Parallelization and Concurrency
+- Utilize multi-threading for parallel execution
+- Implement asynchronous programming for non-blocking I/O
+- Leverage distributed computing frameworks like Apache Spark
+
+6. Database Query Optimization
+- Analyze and optimize SQL queries
+- Utilize indexing and avoid full table scans
+- Implement pagination and limit result sets
+
+7. Network and I/O Optimization
+- Minimize network requests and payload size
+- Compress data before transmission
+- Implement caching and content delivery networks (CDNs)
+
+8. Profiling and Performance Monitoring
+- Utilize profiling tools to identify performance bottlenecks
+- Monitor application performance in production
+- Continuously iterate and optimize based on metrics

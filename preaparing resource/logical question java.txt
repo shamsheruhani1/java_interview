@@ -1,0 +1,51 @@
+How do you reverse String.?
+swap 2 no without temp variable..?
+WAP to print fabonacci sequence using recursion
+  
+String is palindrom or not
+remove space from String
+remove leading and trailing space of string
+sort an Array in java
+find the factorial of a no
+reverse a linked list /
+implement binary search    int mid = low + (high - low) / 2; int mid=start+(end-start)/2
+WAP that illustrate merge short
+create pyramid of character
+find second largest no of array
+shuffle an array
+find a string in text
+print date in specific format
+merge two list 
+WAP short Hashmap by value
+remove all occurance of given character in string
+get distinct charcter and thir count in string
+can you prove String object is immutable 
+write some code to show inheritance
+try catch example
+WAP to show Exception
+creat Record in java
+create text block in java
+
+show an example of switxh statement and multilevel case statement in java
+create enum in java
+how do u use forEach() method in java
+write an interface with static and default method
+
+print odd and even numbers alternately using ExecutorService in Java.
+
+
+
+WAP to check if a given string has duplicates, remove them if found, and print the remaining string.It also throws an error if no duplicates are found
+  by using java 8
+
+
+WAP retrieves data from the given array, squares each number and print it, and also checks if the square value is greater than 20.
+  Finally, it prints the count of numbers with squared values greater than 20.
+
+
+Find Palindrome of a Given String and Write Code
+Code to Increment Counter Using Static Variable
+Write Code to Convert Integer to Binary Format, Count Frequency of 0s
+Find Equilibrium Index of an Array and Write Code
+Find Subarray with Given Sum
+Check if Array is Sorted or Not

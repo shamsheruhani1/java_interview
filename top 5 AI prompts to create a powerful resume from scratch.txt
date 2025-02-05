@@ -1,0 +1,35 @@
+If you’re not using AI to build your resume in 2024, you’ll be left behind.
+
+Here are top 5 AI prompts to create a powerful resume from scratch:
+—————-
+
+Prompt 1: Analysis of the Job Description
+
+Analyze the below job description carefully and let me know 5 top skills required to be a perfect candidate for this job description (JD):
+”Paste JD”
+
+Prompt 2: Create a Career Summary:
+
+Please create a summary of my resume. Include points around [keywords]. Also, include 5-6 key highlights in bullet points in the summary
+Here is the resume text in quotes: “Paste Resume text”
+Here is the Job Description in quotes: “Paste Job Description”
+
+Prompt 3: Create Resume pointers from your work Summary:
+
+I am applying for a [Type Role] role. Act as a resume writer and create 4 resume bullet points from the below work experience mentioned in the quotes. Start the bullet points with action verbs and write them in crisp language. Add numbers to show impact. Add a dummy number, if the exact data is not available and I will input the correct data later.
+Here is the work summary text in quotes: “Paste text”
+
+Prompt 4: Refine a resume pointer
+
+I am applying for a [Type Role] role. Act as a resume writer and create 5 different versions of the below-given resume bullet point. To make resume points quantifiable, add dummy numbers wherever you can. I will replace these numbers with the correct ones at a later stage. Each point should start with an action verb.
+Here is the resume point in quotes: “Paste resume pointer”
+
+Prompt 5: Get Skill Sets
+What are the top skills required to be successful for the JD on quotes. Give your answer in below format:
+Functional skills:
+Interpersonal skills:
+Tools:
+Here is JD in quotes: “Paste text”
+———————
+
+If you need our help with writing a resume, message us - Resume. 

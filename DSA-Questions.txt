@@ -1,0 +1,83 @@
+Never forget to do this questions 
+
+Arrays
+
+-TWO SUM
+-Best time to Buy and Sell Stocks
+-Maximum subarray
+-Container With most water
+-Rotate Arrays
+
+STRING
+
+-Reverse String
+-valid Palindrome
+-longest SubString without
+-repeating Characters
+-Group Anagram
+-Longest palindromic Substring
+
+
+LINKEDLIST
+
+-Reverse Linkedlist
+-Merge Two Sorted List
+-Remove Node from end of the List
+-Intersaction of two linked list
+-linkedlist Cycle
+
+SORTING &  SEARCH
+
+-MERGE SORT
+-QUICK SHORT
+-BINARY SEARCH
+-Search in Rotated Arrays
+-First BAD Version
+
+
+TREES
+
+-Maximum depth of binary tree
+-valiadate Binery search Tree
+-Symmetric Tree
+-BINARY Tree Level Order Traversal
+-Lowest Common Ensestor of a binary tree
+
+GRAPH
+
+- NO of Islands
+-Course Schedule
+-Clone Graph
+-world Ladder
+-Network delay Time
+
+
+Dynamic Programming
+
+
+-fibonacci no
+-Climbing Stairs
+-longest incresing Sunsequences
+-Maximum subarray sum
+-coin change
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

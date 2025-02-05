@@ -1,0 +1,13 @@
+Important design patterns frequently asked in Java dev interviews:✅
+
+Singleton: Ensures a class has one instance.
+
+Factory: Creates objects without specifying the exact class.
+
+Builder: Simplifies complex object creation.
+
+Adapter: Makes incompatible interfaces work together.
+
+Decorator: Adds behavior to objects dynamically.
+
+Observer: Notifies dependents of state changes.

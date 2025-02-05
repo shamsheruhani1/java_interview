@@ -1,0 +1,22 @@
+Common OOP Questions Java Developer Interview Experiences 👇
+
+What is abstraction and how is it different from encapsulation?
+How will you use encapsulation to design your code?
+What are the four principles of OOP?
+Abstract class vs. interface?
+What are the SOLID principles in Java?
+Can an interface have no methods in it?
+What exactly is abstraction? What are the advantages of it over a concrete class?
+Create a parent P and child C class. In the child class, create a list. Can we add the object of the parent to that list, or can the parent class add an object of the child class to that list?
+What is method overriding? Explain access specifiers with an example.
+Explain about access modifiers in Java.
+What is abstraction and ways to achieve it?
+What is polymorphism and how can it be achieved?
+Five tricks to encapsulate code?
+Can we have overloaded methods with different return types?
+If a parent class has methods m1, m2, m3, and the child class has methods m1, m2, m3, m4, m5, can the parent call methods m4 and m5 of the child? Can the child class call methods m1, m2, m3 of the parent class?
+Inheritance vs. composition?
+What is an abstract class with a constructor, and what is the use of a constructor if we don’t instantiate the abstract class?
+What are SOLID principles in Java?
+What is method overriding? Explain access specifiers with an example.
+How to use method overriding with exception handling? Provide an example.
